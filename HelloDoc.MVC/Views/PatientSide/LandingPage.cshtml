@@ -1,0 +1,79 @@
+@{
+    Layout = null;
+}
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>landingpage</title>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/js/custom.js">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/7.1.0/mdb.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    @*************** toastr cdn ************@
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
+
+</head>
+<body onload="checkMode()" style="background-color:transparent">
+    <partial name="_Notification" />
+
+    @* <div class="mode position-absolute">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-moon" viewBox="0 0 16 16">
+    <path d="M6 .278a.77.77 0 0 1 .08.858 7.2 7.2 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277q.792-.001 1.533-.16a.79.79 0 0 1 .81.316.73.73 0 0 1-.031.893A8.35 8.35 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.75.75 0 0 1 6 .278M4.858 1.311A7.27 7.27 0 0 0 1.025 7.71c0 4.02 3.279 7.276 7.319 7.276a7.32 7.32 0 0 0 5.205-2.162q-.506.063-1.029.063c-4.61 0-8.343-3.714-8.343-8.29 0-1.167.242-2.278.681-3.286" />
+    </svg>
+    </div> *@
+    <button class="btn btn-outline-info border border-2 border-info fs-5 px-2 py-1 rounded fw-bolder me-2 position-absolute modelogin"
+            id="dark-mode-btn">
+        <i id="moon" class="bi bi-moon"></i>
+        <i id="sun" class="bi bi-sun d-none"></i>
+    </button>
+    <div class="container-fluid">
+        <div class="row justify-content-center ">
+            <div class=" mt-5">
+                <div class="row mainbox ">
+                    <div class="col-12 logo-div  d-flex flex-column justify-content-end align-items-center mt-4">
+                        <img src="~/images/hallodoc-logo.svg" height="400" width="600" class="logoimg" alt="" style="border-radius: 5px;">
+
+                    </div>
+
+
+                    <div class="row justify-content-center">
+                        <div class="col-11 col-xl-5 ">
+                            <form class="align-items-center d-flex flex-column ">
+                                <div class="mb-4 w-100">
+                                    <a asp-action="SubmitRequest" asp-controller="PatientSide" type="submit" value="Submit" class="btn btn-info" style=" height: 58px; background-color: #00bce7 ; text-transform: capitalize;display: flex;justify-content: center; align-items: center;">Submit a Request</a>
+                                </div>
+                                <div class="w-100">
+                                    <a asp-action="Login" asp-controller="PatientSide" type="submit" class="btn btn-info" style=" height: 58px; background-color: rgb(9, 20, 60);text-transform: capitalize;display: flex;justify-content: center; align-items: center;">Registered Patients</a>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
+
+                    <div class="col-12 d-flex flex-column  justify-content-end mb-1">
+                        <footer class="text-center text-lg-start">
+                            <!-- Copyright -->
+                            <div class="text-center p-3">
+                                Terms of Conditions |
+                                <a class="text-body" href="https://mdbootstrap.com/">Privacy Policy</a>
+                            </div>
+                            <!-- Copyright -->
+                        </footer>
+                    </div>
+
+
+                </div>
+
+            </div>
+            <script src="~/js/bootstrap.bundle.min.js"></script>
+            <script src="~/js/dark-theme.js" asp-append-version="true"></script>
+
+
+</body>
+</html>

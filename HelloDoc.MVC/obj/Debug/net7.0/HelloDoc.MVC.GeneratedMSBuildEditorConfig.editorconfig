@@ -1,0 +1,391 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HelloDoc.MVC
+build_property.RootNamespace = HelloDoc.MVC
+build_property.ProjectDir = D:\Projects\HelloDoc.MVC - Copy (2)\HelloDoc.MVC\HelloDoc.MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\Projects\HelloDoc.MVC - Copy (2)\HelloDoc.MVC\HelloDoc.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/AdminSide/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5TaWRlXEFkbWluRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/AdminSide/FinalizeForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5TaWRlXEZpbmFsaXplRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/BussinessReq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcQnVzc2luZXNzUmVxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/ConciergeReq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcQ29uY2llcmdlUmVxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/FamilyfriendReq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcRmFtaWx5ZnJpZW5kUmVxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/Forgot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcRm9yZ290LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/LandingPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcTGFuZGluZ1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/PatientReq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcUGF0aWVudFJlcS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/Reset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcUmVzZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/ReviewAgreement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcUmV2aWV3QWdyZWVtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/SubmitForMe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcU3VibWl0Rm9yTWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/SubmitForSomeOne.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcU3VibWl0Rm9yU29tZU9uZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/SubmitRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcU3VibWl0UmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/ViewDoc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcVmlld0RvYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/PatientSide/_InformationModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFNpZGVcX0luZm9ybWF0aW9uTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/ProviderSide/FinalizeForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmlkZXJTaWRlXEZpbmFsaXplRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/ProviderSide/ProviderDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmlkZXJTaWRlXFByb3ZpZGVyRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Access/AccountAccess/_AdminAccountAccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXEFjY2Vzc1xBY2NvdW50QWNjZXNzXF9BZG1pbkFjY291bnRBY2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Access/AccountAccess/_AdminAccountAccessCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXEFjY2Vzc1xBY2NvdW50QWNjZXNzXF9BZG1pbkFjY291bnRBY2Nlc3NDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Access/AccountAccess/_AdminAccountAccessEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXEFjY2Vzc1xBY2NvdW50QWNjZXNzXF9BZG1pbkFjY291bnRBY2Nlc3NFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Access/UserAccess/_AdminUserAccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXEFjY2Vzc1xVc2VyQWNjZXNzXF9BZG1pblVzZXJBY2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Access/_AdminCreateAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXEFjY2Vzc1xfQWRtaW5DcmVhdGVBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminAssignCase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5Bc3NpZ25DYXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminBlockCase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5CbG9ja0Nhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminCancelCase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5DYW5jZWxDYXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminClearCase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5DbGVhckNhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminCloseCase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5DbG9zZUNhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminCreateRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5DcmVhdGVSZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminRequestSupport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5SZXF1ZXN0U3VwcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminRequestTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5SZXF1ZXN0VGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminSendAgreement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5TZW5kQWdyZWVtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminSendLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5TZW5kTGluay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5UYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminTransferCase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5UcmFuc2ZlckNhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminViewCase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5WaWV3Q2FzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminViewNotes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5WaWV3Tm90ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_AdminViewUploads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQWRtaW5WaWV3VXBsb2Fkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_ChatWith.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfQ2hhdFdpdGguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_Encounter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfRW5jb3VudGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Dashboard/_SendOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXERhc2hib2FyZFxfU2VuZE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Partners/_Partners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFBhcnRuZXJzXF9QYXJ0bmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Partners/_PartnersCreateEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFBhcnRuZXJzXF9QYXJ0bmVyc0NyZWF0ZUVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Profile/_AdminProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb2ZpbGVcX0FkbWluUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/ProviderLocation/_ProviderLocation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyTG9jYXRpb25cX1Byb3ZpZGVyTG9jYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Invoicing/_Invoicing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xJbnZvaWNpbmdcX0ludm9pY2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Provider/_CreateProviderAcc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xQcm92aWRlclxfQ3JlYXRlUHJvdmlkZXJBY2MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Provider/_Payrate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xQcm92aWRlclxfUGF5cmF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Provider/_Provider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xQcm92aWRlclxfUHJvdmlkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Provider/_ProviderEditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xQcm92aWRlclxfUHJvdmlkZXJFZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Scheduling/_AdminScheduling.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xTY2hlZHVsaW5nXF9BZG1pblNjaGVkdWxpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Scheduling/_CreateShift.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xTY2hlZHVsaW5nXF9DcmVhdGVTaGlmdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Scheduling/_DayWiseShift.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xTY2hlZHVsaW5nXF9EYXlXaXNlU2hpZnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Scheduling/_MDsOnCall.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xTY2hlZHVsaW5nXF9NRHNPbkNhbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Scheduling/_MonthWiseShift.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xTY2hlZHVsaW5nXF9Nb250aFdpc2VTaGlmdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Scheduling/_MoreShift.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xTY2hlZHVsaW5nXF9Nb3JlU2hpZnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Scheduling/_ShiftReview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xTY2hlZHVsaW5nXF9TaGlmdFJldmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Scheduling/_ViewShift.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xTY2hlZHVsaW5nXF9WaWV3U2hpZnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Providers/Scheduling/_WeekWiseShift.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFByb3ZpZGVyc1xTY2hlZHVsaW5nXF9XZWVrV2lzZVNoaWZ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Records/_BlockedHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFJlY29yZHNcX0Jsb2NrZWRIaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Records/_EmailSmsLog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFJlY29yZHNcX0VtYWlsU21zTG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Records/_ExploreRecords.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFJlY29yZHNcX0V4cGxvcmVSZWNvcmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Records/_GetRecordsTab.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFJlY29yZHNcX0dldFJlY29yZHNUYWIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/Records/_SearchRecords.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXFJlY29yZHNcX1NlYXJjaFJlY29yZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/_AdminHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXF9BZG1pbkhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Admin/_AdminHeaderSecond.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluXF9BZG1pbkhlYWRlclNlY29uZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Provider/Dashboard/_Provider_AcceptCase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb3ZpZGVyXERhc2hib2FyZFxfUHJvdmlkZXJfQWNjZXB0Q2FzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Provider/Dashboard/_Provider_ConcludeCare.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb3ZpZGVyXERhc2hib2FyZFxfUHJvdmlkZXJfQ29uY2x1ZGVDYXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Provider/Dashboard/_Provider_Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb3ZpZGVyXERhc2hib2FyZFxfUHJvdmlkZXJfRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Provider/Dashboard/_Provider_DashboardContent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb3ZpZGVyXERhc2hib2FyZFxfUHJvdmlkZXJfRGFzaGJvYXJkQ29udGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Provider/Dashboard/_Provider_DashboardTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb3ZpZGVyXERhc2hib2FyZFxfUHJvdmlkZXJfRGFzaGJvYXJkVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Provider/Dashboard/_Provider_EncounterModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb3ZpZGVyXERhc2hib2FyZFxfUHJvdmlkZXJfRW5jb3VudGVyTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Provider/Dashboard/_Provider_TransferCase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb3ZpZGVyXERhc2hib2FyZFxfUHJvdmlkZXJfVHJhbnNmZXJDYXNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Provider/Invoicing/_Provider_AddReceipts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb3ZpZGVyXEludm9pY2luZ1xfUHJvdmlkZXJfQWRkUmVjZWlwdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Provider/Invoicing/_Provider_FinalizeTimeSheet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb3ZpZGVyXEludm9pY2luZ1xfUHJvdmlkZXJfRmluYWxpemVUaW1lU2hlZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Provider/Invoicing/_Provider_Invoicing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb3ZpZGVyXEludm9pY2luZ1xfUHJvdmlkZXJfSW52b2ljaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Provider/_ProviderMainHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb3ZpZGVyXF9Qcm92aWRlck1haW5IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/Provider/_ProviderUperHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb3ZpZGVyXF9Qcm92aWRlclVwZXJIZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/_AdminFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/_DashLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXNoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Task/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/HelloDoc.MVC - Copy (2)/HelloDoc.MVC/HelloDoc.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rb3p04jk13
